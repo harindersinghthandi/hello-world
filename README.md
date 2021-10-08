@@ -1,2 +1,2 @@
 # hello-world
-Hello world program
+Hello world Python program repository to practice branching
